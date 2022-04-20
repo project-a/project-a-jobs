@@ -1,7 +1,11 @@
 # System Administrator
 
+<p align="center">
+<img src="https://memegenerator.net/img/instances/65678022/please-contact-your-system-administrator-i-am-the-system-administrator.jpg"
+width="300" height="200" border="10"/>
+</p>
 
-:woman_technologist: :man_technologist: We are looking for:
+### :woman_technologist: :man_technologist: We are looking for:
 
 A new member for our System Administration team at Project A. 
 Their team is ensuring that everyone in the company has technical equipment that works, 
@@ -9,7 +13,7 @@ that the network infrastructure in the office is working correctly and all inter
 In the background the System Administrators are maintaining all the infrastructure and devices and are working on internal IT projects. 
 In addition the System Administrators are supporting events with streaming and audio/video equipment.
 
-:computer: What will keep you challenged?
+### :computer: What will keep you challenged?
 
 * Finding solutions for every problem that the people at Project A encounter
 * Diagnosis and correction of errors in client operating systems (Windows, macOS, Linux), servers (Linux, Windows), as well as in the network infrastructure (pfSense, Aruba, Cisco Aironet, UniFi)
@@ -20,7 +24,7 @@ In addition the System Administrators are supporting events with streaming and a
 * Automation of processes with scripting or the introduction of new tools
 * Implementing technical measures for the compliance with IT security standards
 
-:trophy: Which traits contribute to your success?
+### :trophy: Which traits contribute to your success?
 
 * Successful completion of training in an IT profession or a similar field
 * Motivation and familiarity in working with different operating systems
@@ -34,7 +38,7 @@ In addition the System Administrators are supporting events with streaming and a
 
 ❗ Please note that we are looking for support in our Berlin office. Eligibility to work within the EU is required as well.
 
-:octocat: Benefits and Perks:
+### :octocat: Benefits and Perks:
 
 * Remote-friendly – Work anywhere in Germany or take advantage of our beautiful and well-equipped office at the heart of Berlin.
 * Choose your tech – Macbook/Windows/Linux laptop and optional screen.
@@ -46,6 +50,6 @@ In addition the System Administrators are supporting events with streaming and a
 * Visa application support and relocation package.
 
 
-:pencil2: Do you want to be part of our portfolio company's success story?
+:pencil2: Do you want to be part of our company's success story?
 
-:pencil2: We are looking forward to your online application here: 
+# :pencil2: We are looking forward to your online application here: 
