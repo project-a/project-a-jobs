@@ -52,4 +52,4 @@ In addition the System Administrators are supporting events with streaming and a
 
 :pencil2: Do you want to be part of our company's success story?
 
-# :pencil2: We are looking forward to your online application here: 
+:pencil2: We are looking forward to your online application here: 
