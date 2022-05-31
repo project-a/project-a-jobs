@@ -1,8 +1,5 @@
 # 🧭 About us :
-<p align="center">
-<img src="https://user-images.githubusercontent.com/79696277/170458461-7fbafd14-758d-4478-a7f1-21a37eb0ce40.png"
-width="400" height="350" border="1"/>                   
-
+               
 https://user-images.githubusercontent.com/79696277/170461426-152bb9d6-5b41-4485-8083-c7b885cdb812.mp4
 
 
