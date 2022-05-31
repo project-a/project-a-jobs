@@ -9,10 +9,5 @@ Project A is an operational venture capital, recruiting for several tech compani
 
   
   
-## 💁‍♀️  Hiring process : 
- 
-<p align="center">
-<img src=""
-width="400" height="350" border="1"/>    
-  
-  
+## 💁‍♀️  Hiring process :   
+<img width="792" alt="Screenshot 2022-05-31 at 12 11 18" src="https://user-images.githubusercontent.com/79696277/171150389-4ae18ca2-3b20-449b-ba4d-01b0614985dd.png">
