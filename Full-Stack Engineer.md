@@ -1,4 +1,4 @@
-# (Senior) Full-Stack Engineer (m/f/d)
+# Full Stack JavaScript Developer (m/f/d)
 
 <p align="center">
 <img src="https://www.meme-arsenal.com/memes/4dc5c2c0a73fb9ec553c3f93703a02ad.jpg"
