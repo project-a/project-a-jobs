@@ -38,7 +38,7 @@ access to well-paying jobs in telecommunications while offering a completely vir
 * Ability to solve problems with efficient algorithms
 * Having a solution-oriented, responsible and pragmatic approach as well as a hands-on mentality
 * Enjoying to work in a cross-functional team and having high quality standards for one’s own work
-* Fluency in German and English
+* Fluency in English
 
 
 ❗ Please note that we are looking for support in the Munich office of our portfolio company. Eligibility to work within the EU is required as well.
