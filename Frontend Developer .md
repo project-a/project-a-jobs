@@ -42,7 +42,7 @@ a large number of people around the world access to well-paying jobs in telecomm
 * Fluency in German and English
 
 
-❗ Please note that we are looking for support in the Munich office of our portfolio company. Eligibility to work within the EU is required as well.
+❗ Please note that we are looking for support in the Munich/Berlin office of our portfolio company. Eligibility to work within the EU is required as well.
 
 ### :octocat: What to expect working with our portfolio company?
 
