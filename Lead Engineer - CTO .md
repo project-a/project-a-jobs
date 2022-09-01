@@ -7,8 +7,7 @@ width="400" height="250" border="10"/>
 
 ### :woman_technologist: :man_technologist: We are looking for:
 
-A new team member for our portfolio company in the sustainability space. They are on a mission to build the most complete data set 
-on the greenhouse gas emissions in a targeted industry.
+A new team member for our portfolio company in the sustainability space. They are on a mission to build the most complete data set on the greenhouse gas emissions in a targeted industry. Since the role will be part of the founding team, it overall package will include equity.
 
 
 ### [Apply here](https://grnh.se/c2f17cdc2us)
