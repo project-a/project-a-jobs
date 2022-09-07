@@ -1,9 +1,8 @@
 # Lead Engineer / CTO (m/f/d)
 
 <p align="center">
-<img src="https://sayingimages.com/wp-content/uploads/engineering-school-engineering-memes.jpg"
-width="400" height="250" border="10"/>
-</p>
+<img width="250" alt="Screenshot 2022-09-07 at 11 16 50" src="https://user-images.githubusercontent.com/79696277/188828085-a77861ef-d97b-49ad-9e6a-11a1d3e91a3b.png">
+
 
 ### :woman_technologist: :man_technologist: We are looking for:
 
