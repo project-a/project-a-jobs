@@ -1,9 +1,5 @@
 # Data & BI Analyst- Marketing (m/f/d)
 
-<p align="center">
-<img src="https://i.imgflip.com/4unvq5.jpg"
-width="400" height="250" border="10"/>
-</p>
 
 ### :woman_technologist: :man_technologist: We are looking for:
 
