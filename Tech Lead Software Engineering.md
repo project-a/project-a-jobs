@@ -38,5 +38,10 @@ Join our portfolio company: An Austrian MedTech company focused on manufacturing
 * Flexible working conditions, a friendly and beautiful work environment
 * Meaningful equity. This is a rare opportunity to earn a significant stake in a company on track for success - with a highly attractive upside
 
-:pencil2: Apply below and become a part of our success story!
-:pencil2: [Apply here](https://grnh.se/5c557d482us)
+:pencil2: [Apply here](https://grnh.se/5c557d482us) and become a part of our success story!
+
+
+Our Commitment to Diversity and Inclusion
+Project A is committed to diverse and equal opportunities hiring for all – applicants, candidates, and employees alike. We value humans – with all our glorious multifaceted backgrounds, perspectives, and experiences – and look forward to your application.
+
+
