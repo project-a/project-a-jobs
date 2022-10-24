@@ -1,57 +1,50 @@
-# (Senior) Frontend Developer (m/f/d)
+# Senior Frontend Developer (m/f/d)
 
-<p align="center">
-<img src="https://img-9gag-fun.9cache.com/photo/aqKmw8Y_460s.jpg"
-width="300" height="200" border="10"/>
-</p>
+### 🚀 About the Job
 
-### :woman_technologist: :man_technologist: We are looking for:
+We’re looking for an experienced Senior Frontend Developer (m/f/d) to join one of our portfolio companies and manage its technical improvement strategies.
 
-A new team member for our latest Portfolio Company that is single-handedly revolutionizing the global customer service experience 
-by connecting companies with a pool of over 30,000 accomplished support agents across the globe. 
-With their innovative and market-changing platform, the Venture already provides
-a large number of people around the world access to well-paying jobs in telecommunications while offering a completely virtual customer service for all B2B customers.
+In your day-to-day work, you’ll focus on ensuring the elaboration of software architecture and get the opportunity to contribute to various projects.
 
-
+Join our portfolio company: An Austrian MedTech company focused on manufacturing dental CAD/CAM equipment and materials. This leading pioneer of digital dental technology has offices across the globe.
 
 ### [Apply here](https://grnh.se/44943ef72us)
 
-### :computer: What will keep you challenged?
+### :computer: In this role, you’ll:
 
-* Being part of a cross-functional team and ensuring the continuous improvement of the user experience of new products
-* Developing user-friendly applications
-* Being a competent contact person for project managers, providing feedback on user stories and being a supportive team member
-* Having high quality standards and accompanying the entire process from the development of the concept, to its testing and release
-* Setting new impulses for the functional and technical enhancement of existing web applications and, therefore, supporting the permanent development of the tech department
+* Build the frontend for our portfolio company’s digital products 
+* Work in a self-organised Scrum team with other software engineers 
+* Elaborate technical improvements with your team and your Product Owner
+* Constantly improve our portfolio company’s software architecture and their continuous integration practices
 
+### 🏆 Your Profile
 
-### 🧰 Tech Stack: 
-
-* Javascript 
-* Web-APIs and new ECMA-Script versions
-* REST/JSON-APIs, Git/Github, CSS, customElements
-
-
-### :trophy: Which traits contribute to your success?
-
-* University degree in computer science or a comparable field or equivalent knowledge
-* 3+ years of experience as a frontend developer
-* Working in a solution-oriented manner, thinking responsibly and pragmatically at the same time and enjoying taking on challenges
-* Passion for the development of applications with excellent user experience and emphasizing "clean code" when implementing ideas
-* Knowing how to work successfully in a cross-functional team
-* Fluency in German and English
+* Several years of experience with JavaScript and frameworks such as AngularJS, ReactJS or VueJS
+* Knowledge about how to build and run software using cloud products like AWS, k8s and Docker
+* Deep understanding of JavaScript, HTML, CSS, JSON and RESTful APIs
+* Mastery of tools like Git(lab), JIRA and Confluence
+* Skilled test-driven and behaviour-driven development
+* Keen on working in a cross-functional, agile team
+* Willingness to improve yourself, the team, and the workflow
+* Professional English proficiency, German skills are a plus
 
 
-❗ Please note that we are looking for support in the Munich/Berlin office of our portfolio company. Eligibility to work within the EU is required as well.
+❗ Please note that we’re looking for support in the Koblach/Berlin office of our portfolio company. Eligibility to work in the EU is required.
 
-### :octocat: What to expect working with our portfolio company?
+### :octocat: Benefits and Perks
 
-* Creating your own area of responsibility and expanding it through short decision-making processes and a lot of creative freedom
-* Developing in a performance-oriented and motivated team and with the latest technologies
-* Working with the three global trends: Future of Work, Sustainability and Sharing Economy 
-* Remote option and flexible hours
+* Make a true impact in the dental industry
+* Well equipped and modern office in the heart of Koblach city
+* Take advantage of employee discount opportunities, company benefits, health benefits, and partner programs
+* Thrive from an inspiring, creative, and diverse environment with amazing and smart colleagues from all over the world
+* Transparent culture where every person is highly valued Having fun together as a company with regular team events
+* Getting challenged and developing your professional skills by taking over responsibilities, and a guaranteed steep learning curve from day one
+* Choose from a variety of drinks and healthy snacks available to keep you energised throughout the day
+* Possibility for home office and flexible working hours to balance your work and private life
+* Being part of an instant network within the Project A family 
+
+:pencil2: [Apply here](https://grnh.se/44943ef72us) and become a part of our success story!
 
 
-:pencil2: Do you want to be part of our company's success story?
-
-:pencil2: We are looking forward to your online application : [Apply here](https://grnh.se/44943ef72us)
+Our Commitment to Diversity and Inclusion 
+Project A is committed to diverse and equal opportunities hiring for all – applicants, candidates, and employees alike. We value humans – with all our glorious multifaceted backgrounds, perspectives, and experiences – and look forward to your application.
