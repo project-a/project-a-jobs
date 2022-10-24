@@ -1,11 +1,6 @@
 # Data Warehouse Engineer (m/f/d)
 
-<p align="center">
-<img src="https://memegenerator.net/img/instances/62742726/our-data-warehouse-is-sad.jpg"
-width="300" height="300" border="10"/>
-</p>
-
-### :woman_technologist: :man_technologist: We are looking for:
+### 🚀 About the Job
 
 A new team member for our portfolio company, which is one of the market-leading online printers in Europe. 
 As an e-commerce company, it sells printing materials online to B2B customers in more than 30 European countries.
