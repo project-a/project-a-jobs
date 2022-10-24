@@ -1,57 +1,51 @@
 # Senior Backend Developer - C# (m/f/d)
 
-<p align="center">
-<img src="https://i.redd.it/fymk1e9n1aq21.png"
-width="300" height="400" border="10"/>
-</p>
+### 🚀 About the Job :
 
-### :woman_technologist: :man_technologist: We are looking for:
+We’re looking for a motivated Senior C# Backend Developer (m/f/d) to join one of our portfolio companies and support its technical strategies.
 
-We are looking for a new team member to join one of our portfolio companies - a pioneer of digital dental technology. 
-With decades-long experience in the medical industry, the Austrian firm is transforming its digital operations, 
-introducing a new core team focused on launching key strategic initiatives and innovative products. Backed by Project A, 
-the company's in-house digitalization team is ready to make a mark in the global MedTech scene.
+In your day-to-day work, you’ll focus on ensuring that our portfolio company’s software architecture is improving and get the opportunity to contribute to various projects.
+
+Join our portfolio company: An Austrian MedTech company focused on manufacturing dental CAD/CAM equipment and materials. This leading pioneer of digital dental technology has offices across the globe.
 
 
 ### [Apply here](https://grnh.se/a7488f682us)
 
-### :computer: What will keep you challenged?
+### :computer: In this role, you’ll:
 
-* Building the backend for our portfolio company’s digital products 
-* Working in a self-organized Scrum team with other software engineers 
-* Elaborating technical improvements with your team and your Product Owner
-* Constantly improving our portfolio company’s software architecture and their continuous integration practices
+* Build the backend for our portfolio company’s digital products 
+* Work in a self-organised Scrum team with other software engineers 
+* Elaborate technical improvements with your team and your Product Owner
+* Constantly improve our portfolio company’s software architecture and their continuous integration practices
 
 
-### :trophy: Which traits contribute to your success?
+### 🏆 Your Profile
 
 * Several years of experience with backend and web development
 * Ability to write software in .Net Core and C# and openness to other programming languages
-* Enjoyment of working in a cross-functional, agile team
-* Previous experience in building RESTful APIs and containerize micro-services 
+* Previous experience in building RESTful APIs and containerised Microservices 
 * Knowledge on how to build and run software using cloud products like AWS, k8s, and Docker
+* Keen on working in a cross-functional, agile team
 * Confidence using HTML, CSS, JavaScript
 * Mastery of tools like Git(lab), JIRA, and Confluence
-* Skilled in test-driven and behavior-driven development
 * Professional English proficiency, German skills are a plus
-* Willingness to improve yourself, the team, and the workflow
 
 
+### :octocat: Benefits and Perks
 
-### :octocat: What to expect working with our portfolio company?
-
-* Make a true impact in the commerce industry
-* Flexible location as long as you are in Austria or Germany
+* Make a true impact in the dental industry
+* Well equipped and modern office in the heart of Koblach city
 * Take advantage of employee discount opportunities, company benefits, health benefits, and partner programs
 * Thrive from an inspiring, creative, and diverse environment with amazing and smart colleagues from all over the world
 * Transparent culture where every person is highly valued
 * Having fun together as a company with regular team events
 * Getting challenged and developing your professional skills by taking over responsibilities, and a guaranteed steep learning curve from day one
-* Choose from a variety of drinks and healthy snacks available to keep you energized throughout the day
+* Choose from a variety of drinks and healthy snacks available to keep you energised throughout the day
 * Possibility for home office and flexible working hours to balance your work and private life
 * Being part of an instant network within the Project A family
 
+:pencil2: [Apply here](https://grnh.se/a7488f682us) and become a part of our success story!
 
-:pencil2: Do you want to be part of our company's success story?
 
-:pencil2: We are looking forward to your online application : [Apply here](https://grnh.se/a7488f682us)
+Our Commitment to Diversity and Inclusion
+Project A is committed to diverse and equal opportunities hiring for all – applicants, candidates, and employees alike. We value humans – with all our glorious multifaceted backgrounds, perspectives, and experiences – and look forward to your application.
