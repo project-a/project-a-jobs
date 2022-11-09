@@ -4,14 +4,14 @@
 
 We’re looking for a motivated Tech Lead Software Engineering (C++/Qt/QML) (m/f/d) to join one of our portfolio companies and lead the software operations.
 In your day-to-day work, you’ll focus on driving the product forward from the technical point of view and get the opportunity to contribute hands-on to various technical projects.
-Join our portfolio company: An Austrian MedTech company focused on manufacturing dental equipment and materials. 
+Join our portfolio company: A MedTech company focused on developing high-tech dental products. 
 
 
 ### [Apply here](https://grnh.se/5c557d482us)
 
 ### :computer: In this role, you’ll:
 
-* Lead a small and highly specialised team of C++/Qt/QML software
+* Be the Tech-Lead of a small and highly specialised team of C++/Qt/QML software developers
 * Further develop and create the  architectural design of our software assets 
 * Lead software operations using agile methodologies 
 * Maintain a high level of quality in the process and the resulting software 
@@ -24,7 +24,7 @@ Join our portfolio company: An Austrian MedTech company focused on manufacturing
 * Strong C++ software architecture and development background (C++/Qt/QML)
 * Experience in technical leadership and management of software development teams
 * Experience in establishing and managing software development operations (CI/CD) and agile methodologies (Scrum)
-* Experience in 3D computer vision and medical software development are an advantage
+* Experience in 3D computer vision, SLAM and medical software development is an advantage
 * Fluency in English 
 
 
